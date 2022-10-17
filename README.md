@@ -1,7 +1,13 @@
 # DecodeSomeJSPWebshell
 利用java Swing 简单写的一个jspWebshell 解密工具：
   支持 冰蝎2，冰蝎3，哥斯拉
-  
+#使用案例：
+如下为冰蝎首次连接时产生的流量
+![image](https://user-images.githubusercontent.com/39674723/196080564-db91433d-44e4-41cb-9865-85464066c90a.png)
+使用工具，输入密码，对其进行解密：
+![image](https://user-images.githubusercontent.com/39674723/196080624-d058cdf1-7160-405f-bfab-5dacdf60e579.png)
+![image](https://user-images.githubusercontent.com/39674723/196080633-b743a516-90d5-4752-b2d8-707924ddf02d.png)
+
   
 # 问题： 
 ## 目前存在的问题：
