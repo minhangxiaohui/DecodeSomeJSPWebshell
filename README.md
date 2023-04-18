@@ -9,7 +9,11 @@
 ![image](https://user-images.githubusercontent.com/39674723/196080633-b743a516-90d5-4752-b2d8-707924ddf02d.png)
 还原出使用的payload 恶意类
 
-哥斯拉的解密同理
+哥斯拉的解密同理 案例如下，注意注入的密码为shell里面定义的的pass也就是密码，输入的密钥为shell里面定义的xc 也就是密钥的md5的前16位：
+案例如下：
+![image](https://user-images.githubusercontent.com/39674723/232743463-e42e27aa-d583-4db6-b58f-3cc864fa3e51.png)
+![image](https://user-images.githubusercontent.com/39674723/232744212-c0bb203f-0d2a-4955-9df5-ec8efdb03a4a.png)
+
   
 # 问题： 
 ## 目前存在的问题：
